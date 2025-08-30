@@ -1,0 +1,8 @@
+openai
+python-dotenv
+qwen-agent[gui,rag,code_interpreter,mcp]
+tavily-python
+uv
+psycopg
+sqlalchemy
+yagmail
