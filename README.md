@@ -243,7 +243,7 @@ Jika Anda ingin informasi lebih lanjut atau peringatan khusus, saya bisa bantu m
 #### Request
 ```python
 {
-  "user": "buatkan personalized alert dan kirim untuk citizen ya terkait gempa"
+  "user": "buatkan personalized alert dan kirim untuk organisasi ya terkait gempa"
 }
 ```
 #### Response
